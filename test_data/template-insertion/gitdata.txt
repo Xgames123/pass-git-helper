@@ -1,0 +1,4 @@
+host=mytest.com
+protocol=https
+username=username\n w ${username} ${password}
+password=password \n${username} space space ${password}
